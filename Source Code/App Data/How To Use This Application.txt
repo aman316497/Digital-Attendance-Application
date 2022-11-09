@@ -1,0 +1,8 @@
+Firstly Move the "Database" Folder to "C:" Drive of the System(Computer)
+
+Second Copy the "Digital Attendance Application" at the Desktop (optional)
+
+Now Run the Application according to your Need.
+	
+		Thank You	
+	 (From SSAD Group Company)
